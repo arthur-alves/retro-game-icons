@@ -1,0 +1,295 @@
+.retro {
+    background-image: url(sprites.png);
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.icon-lynx {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -5px;
+}
+
+.icon-lynx-2 {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -5px;
+}
+
+.icon-lynx-game {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -5px;
+}
+
+.icon-famicom {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -5px;
+}
+
+.icon-famicom-game {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -5px;
+}
+
+.icon-famicom-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -5px;
+}
+
+.icon-famicom-disk {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -79px;
+}
+
+.icon-famicom-zapper {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -79px;
+}
+
+.icon-gg-game {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -79px;
+}
+
+.icon-gba {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -79px;
+}
+
+.icon-gba-game {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -79px;
+}
+
+.icon-gbc {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -79px;
+}
+
+.icon-gbc-game {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -153px;
+}
+
+.icon-gg {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -153px;
+}
+
+.icon-gb {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -153px;
+}
+
+.icon-gb-game {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -153px;
+}
+
+.icon-sms {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -153px;
+}
+
+.icon-nec-game {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -153px;
+}
+
+.icon-nec-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -227px;
+}
+
+.icon-nes {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -227px;
+}
+
+.icon-nec {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -227px;
+}
+
+.icon-nes-game {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -227px;
+}
+
+.icon-nes-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -227px;
+}
+
+.icon-nes-zapper {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -227px;
+}
+
+.icon-neogeo {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -301px;
+}
+
+.icon-neogeo-game {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -301px;
+}
+
+.icon-neogeo-game-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -301px;
+}
+
+.icon-nes-robot {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -301px;
+}
+
+.icon-sms-game {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -301px;
+}
+
+.icon-sms-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -301px;
+}
+
+.icon-zillion {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -375px;
+}
+
+.icon-snes-scope {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -375px;
+}
+
+.icon-megacd {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -375px;
+}
+
+.icon-gen {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -375px;
+}
+
+.icon-gen2 {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -375px;
+}
+
+.icon-gen-game {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -375px;
+}
+
+.icon-gen-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -449px -5px;
+}
+
+.icon-nomad {
+    width: 64px;
+    height: 64px;
+    background-position: -449px -79px;
+}
+
+.icon-super-gb {
+    width: 64px;
+    height: 64px;
+    background-position: -449px -153px;
+}
+
+.icon-snes {
+    width: 64px;
+    height: 64px;
+    background-position: -449px -227px;
+}
+
+.icon-snes-game {
+    width: 64px;
+    height: 64px;
+    background-position: -449px -301px;
+}
+
+.icon-snes-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -449px -375px;
+}
+
+.icon-super-famicom {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -449px;
+}
+
+.icon-super-famicom-game {
+    width: 64px;
+    height: 64px;
+    background-position: -79px -449px;
+}
+
+.icon-super-famicom-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -153px -449px;
+}
+
+.icon-tgx16 {
+    width: 64px;
+    height: 64px;
+    background-position: -227px -449px;
+}
+
+.icon-tgx16-game {
+    width: 64px;
+    height: 64px;
+    background-position: -301px -449px;
+}
+
+.icon-tgx16-pad {
+    width: 64px;
+    height: 64px;
+    background-position: -375px -449px;
+}
