@@ -1,4 +1,4 @@
-# Retro-game icon
+# Retro-game icons
 
 http://arthur-alves.github.io/retro-game-icons/
 
