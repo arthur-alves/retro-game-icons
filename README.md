@@ -1,4 +1,4 @@
-# retro-game-icons
+# Retro-game icon
 
 **Retro-console game icons for your retro site**
 
