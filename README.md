@@ -2,7 +2,7 @@
 
 **Retro-console game icons for your retro site**
 
-A simple project to help us to set a retro-game console icons on your retro-game site.
+A simple project to help us to set some retro console icons on your retro-game site.
 
 This project is very very poor yet, and need some help to improve that, how add less or another css 
 framework.
