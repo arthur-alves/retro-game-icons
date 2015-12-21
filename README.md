@@ -1,7 +1,5 @@
 # Retro-game icons
 
-http://arthur-alves.github.io/retro-game-icons/
-
 **Retro-console game icons for your retro site**
 
 A simple project to help us to set a retro-game console icons on your retro-game site.
@@ -17,6 +15,12 @@ push a css
 ### Notes:
 
 Icon size support for now is only 64x64
+
+
+###Usage:
+
+http://arthur-alves.github.io/retro-game-icons/
+
 
 
 Enjoy.
