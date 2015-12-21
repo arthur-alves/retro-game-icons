@@ -1,5 +1,5 @@
 .retro {
-    background-image: url(img/sprites.png);
+    background-image: url(img/sprites-min.png);
     background-repeat: no-repeat;
     display: block;
     margin: 0 auto;
@@ -292,4 +292,15 @@
     width: 64px;
     height: 64px;
     background-position: -375px -449px;
+}
+
+.retro-min {
+  -webkit-transform: scale(0.7);
+      -ms-transform: scale(0.7);
+          transform: scale(0.7);
+  -ms-interpolation-mode: nearest-neighbor;
+      image-rendering: -webkit-optimize-contrast;
+      image-rendering: -moz-crisp-edges;
+      image-rendering: -o-pixelated;
+      image-rendering: pixelated;
 }
